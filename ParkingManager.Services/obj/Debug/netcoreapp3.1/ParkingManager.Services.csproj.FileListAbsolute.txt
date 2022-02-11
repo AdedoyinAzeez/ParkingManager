@@ -1,0 +1,14 @@
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\bin\Debug\netcoreapp3.1\ParkingManager.Services.deps.json
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\bin\Debug\netcoreapp3.1\ParkingManager.Services.dll
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\bin\Debug\netcoreapp3.1\ParkingManager.Services.pdb
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\bin\Debug\netcoreapp3.1\ParkingManager.Database.dll
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\bin\Debug\netcoreapp3.1\ParkingManager.Database.pdb
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\obj\Debug\netcoreapp3.1\ParkingManager.Services.csproj.AssemblyReference.cache
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\obj\Debug\netcoreapp3.1\ParkingManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\obj\Debug\netcoreapp3.1\ParkingManager.Services.AssemblyInfoInputs.cache
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\obj\Debug\netcoreapp3.1\ParkingManager.Services.AssemblyInfo.cs
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\obj\Debug\netcoreapp3.1\ParkingManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\obj\Debug\netcoreapp3.1\ParkingManager.Services.csproj.CopyComplete
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\obj\Debug\netcoreapp3.1\ParkingManager.Services.dll
+C:\Users\Adedoyin\Desktop\coding\C#\ParkingManager\ParkingManager.Services\obj\Debug\netcoreapp3.1\ParkingManager.Services.pdb
