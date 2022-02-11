@@ -74,8 +74,13 @@ namespace ParkingManager.Services
 
                     if (diff > TimeSpan.FromHours(1))
                     {
-                        var successiveHours = diff - TimeSpan.FromHours(1);
+                        var successiveHours = diff - TimeSpan.FromMinutes(60);
                         var hours = Convert.ToInt32(successiveHours.TotalHours);
+                        if (successiveHours.TotalMinutes % 60 > 0 && successiveHours.TotalMinutes % 60 < 60)
+                        {
+                            hours++;
+                        }
+                        
 
                         cost += (hours * successivefullorpartial.cost);
                     }
